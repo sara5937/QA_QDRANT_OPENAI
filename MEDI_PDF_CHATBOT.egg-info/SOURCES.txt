@@ -1,0 +1,11 @@
+setup.py
+MEDI_PDF_CHATBOT/__init__.py
+MEDI_PDF_CHATBOT/data_ingestion.py
+MEDI_PDF_CHATBOT/embedding.py
+MEDI_PDF_CHATBOT/model_api.py
+MEDI_PDF_CHATBOT/retriver.py
+MEDI_PDF_CHATBOT.egg-info/PKG-INFO
+MEDI_PDF_CHATBOT.egg-info/SOURCES.txt
+MEDI_PDF_CHATBOT.egg-info/dependency_links.txt
+MEDI_PDF_CHATBOT.egg-info/requires.txt
+MEDI_PDF_CHATBOT.egg-info/top_level.txt

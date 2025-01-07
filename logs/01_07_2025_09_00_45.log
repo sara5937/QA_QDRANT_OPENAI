@@ -1,0 +1,7 @@
+[2025-01-07 09:01:25,937] 22 root - INFO - Initialize Embedding model
+[2025-01-07 09:01:34,913] 210 sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+[2025-01-07 09:01:34,913] 218 sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+[2025-01-07 09:06:31,601] 25 root - INFO - Embedding Model Loaded
+[2025-01-07 09:06:31,601] 28 root - INFO - Chat Model Loaded
+[2025-01-07 09:06:31,601] 29 root - INFO - loading API key...
+[2025-01-07 09:06:31,608] 33 root - INFO - Saving API...

@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: MEDI_PDF_CHATBOT
+Version: 0.0.1
+Author: Saran Raj
+Author-email: Mr.saranraj777@gmail.com
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: langchain-huggingface
+Requires-Dist: qdrant-client
+Requires-Dist: langchain-qdrant
+Requires-Dist: langchain-community
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: IPython
+Requires-Dist: streamlit
+Requires-Dist: sentence-transformers

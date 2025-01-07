@@ -1,0 +1,11 @@
+langchain
+langchain-openai
+langchain-huggingface
+qdrant-client
+langchain-qdrant
+langchain-community
+pypdf
+python-dotenv
+IPython
+streamlit
+sentence-transformers
