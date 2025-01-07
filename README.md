@@ -1,0 +1,1 @@
+# QA_QDRANT_OPENAI
